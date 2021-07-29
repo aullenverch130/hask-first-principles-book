@@ -1,4 +1,4 @@
-module BasicDataTypes where
+module Ch4BasicDataTypes where
 
 -- Exercises: Mood Swing pg.136
 data Blah = True

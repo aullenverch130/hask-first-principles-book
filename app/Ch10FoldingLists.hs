@@ -1,4 +1,4 @@
-module FoldingLists where
+module Ch10FoldingLists where
 
 -- Exercises: Understanding Folds pg. 557
 -- 1.

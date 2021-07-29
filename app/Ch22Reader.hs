@@ -1,4 +1,4 @@
-module Reader where
+module Ch22Reader where
 
 -- Short Exercise: Warming Up pg.1325
 -- 1.

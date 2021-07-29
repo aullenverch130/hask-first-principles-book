@@ -1,4 +1,4 @@
-module NonStrictness where
+module Ch27NonStrictness where
 
 -- Chapter Exercises
 

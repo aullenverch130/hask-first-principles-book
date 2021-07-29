@@ -1,4 +1,6 @@
-module HelloHaskell where
+module Ch2HelloHaskell where
+
+-- 8 months to finish book from first Ch if 1 Ch per week
 
 
 -- Exercises: Comprehension Check pg.50

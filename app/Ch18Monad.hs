@@ -1,4 +1,4 @@
-module Monad where
+module Ch18Monad where
 
 -- Chapter Exercises
 

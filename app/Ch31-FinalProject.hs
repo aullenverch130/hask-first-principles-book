@@ -1,4 +1,4 @@
-module FinalProject where
+module Ch31FinalProject where
 
 -- Chapter Exercises
 -- 1.

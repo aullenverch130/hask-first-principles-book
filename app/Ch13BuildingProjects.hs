@@ -1,4 +1,4 @@
-module BuildingProjects where
+module Ch13BuildingProjects where
 
 -- Intermission: Check your understanding pg.771
 -- 1.

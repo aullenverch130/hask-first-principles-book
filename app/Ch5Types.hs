@@ -1,4 +1,4 @@
-module Types where
+module Ch5Types where
 
 
 -- Exercises: Type Matching pg.191

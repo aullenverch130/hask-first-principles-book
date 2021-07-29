@@ -1,4 +1,4 @@
-module Recursion where
+module Ch8Recursion where
 
 -- Intermission: Exercise pg. 430
 -- 1. 

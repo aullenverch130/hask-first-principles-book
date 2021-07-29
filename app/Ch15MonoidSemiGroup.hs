@@ -1,4 +1,4 @@
-module MonoidSemiGroup where
+module Ch15MonoidSemiGroup where
 
 -- Exercise: Optional Monoid pg.913
 -- 1.

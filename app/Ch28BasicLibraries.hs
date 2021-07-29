@@ -1,4 +1,4 @@
-module BasicLibraries where
+module Ch28BasicLibraries where
 
 -- Exercise: Benchmark Practice pg.1744
 -- 1.

@@ -1,4 +1,4 @@
-module AlgebraicDataTypes where
+module Ch11AlgebraicDataTypes where
 
 -- Exercises: Dog Types pg.604
 -- 1.

@@ -1,4 +1,4 @@
-module Lists where
+module Ch9Lists where
 
 -- Exercise: EnumFromTo pg. 467
 -- 1. 

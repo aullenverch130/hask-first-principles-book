@@ -1,4 +1,4 @@
-module MonadTransform where
+module Ch26MonadTransform where
 
 -- Exercises: EitherT pg.1556
 -- 1.

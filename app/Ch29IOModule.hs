@@ -1,4 +1,4 @@
-module IOModule where
+module Ch29IOModule where
 
 -- Chapter Exercises
 

@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: f10b7be8e948fc8a8115aa31f7195c950b634c54598a868c4b77729054ffff0d
+-- hash: c1aa4e943e0c19e0d49a6aa613f5edb55366c892c18ba1486fa38c4d3405cdd6
 
 name:           hask-study-group
 version:        0.1.0.0
@@ -39,36 +39,35 @@ library
 executable hask-study-group-exe
   main-is: Main.hs
   other-modules:
-      AlgebraicDataTypes
-      Applicative
-      ApplyingStructure
-      BasicDataTypes
-      BasicLibraries
-      BuildingProjects
-      ComposeTypes
-      FinalProject
-      Foldable
-      FoldingLists
-      Functor
-      GoWrong
-      HelloHaskell
-      IOModule
-      Lists
-      Monad
-      MonadTransform
-      MonoidSemiGroup
-      MoreFunPatterns
-      NonStrictness
-      ParserCombinators
-      Reader
-      Recursion
-      SignalingAdversity
-      State
-      Strings
-      Testing
-      Traversable
-      Typeclasses
-      Types
+      Ch10FoldingLists
+      Ch11AlgebraicDataTypes
+      Ch12SignalingAdversity
+      Ch13BuildingProjects
+      Ch14Testing
+      Ch15MonoidSemiGroup
+      Ch16Functor
+      Ch17Applicative
+      Ch18Monad
+      Ch19ApplyingStructure
+      Ch20Foldable
+      Ch21Traversable
+      Ch22Reader
+      Ch23State
+      Ch24ParserCombinators
+      Ch25ComposeTypes
+      Ch26MonadTransform
+      Ch27NonStrictness
+      Ch28BasicLibraries
+      Ch29IOModule
+      Ch2HelloHaskell
+      Ch30GoWrong
+      Ch3Strings
+      Ch4BasicDataTypes
+      Ch5Types
+      Ch6Typeclasses
+      Ch7MoreFunPatterns
+      Ch8Recursion
+      Ch9Lists
       Paths_hask_study_group
   hs-source-dirs:
       app

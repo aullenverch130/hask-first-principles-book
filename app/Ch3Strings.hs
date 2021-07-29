@@ -1,4 +1,4 @@
-module Strings where
+module Ch3Strings where
 
 
 -- Exercises: Scope pg.109

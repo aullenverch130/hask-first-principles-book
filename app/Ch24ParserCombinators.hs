@@ -1,4 +1,4 @@
-module ParserCombinators where
+module Ch24ParserCombinators where
 
 -- Exercises: Parsing Practice pg.1412
 -- 1.

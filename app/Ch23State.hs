@@ -1,4 +1,4 @@
-module State where
+module Ch23State where
 
 -- Exercises: Roll Your Own pg.1382
 -- 1.

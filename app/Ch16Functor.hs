@@ -1,4 +1,4 @@
-module Functor where
+module Ch16Functor where
 
 -- Exercises: Be Kind pg.970
 -- 1.

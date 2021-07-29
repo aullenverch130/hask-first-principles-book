@@ -1,4 +1,4 @@
-module MoreFunPatterns where
+module Ch7MoreFunPatterns where
 
 
 -- Exercises: Grab Bag pg.341

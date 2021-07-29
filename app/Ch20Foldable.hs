@@ -1,4 +1,4 @@
-module Foldable where
+module Ch20Foldable where
 
 -- Exercises: Library Functions pg.1279
 -- 1.

@@ -1,5 +1,7 @@
-module Typeclasses where
+module Ch6Typeclasses where
 
+-- 25 Ch left
+-- if Ch a week it would take 6 months & 1 week to finish 
 
 -- Exercises: Eq Instances pg.272
 -- 1.

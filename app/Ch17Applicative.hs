@@ -1,4 +1,4 @@
-module Applicative where
+module Ch17Applicative where
 
 -- Exercises: Lookups pg.1076
 -- 1.

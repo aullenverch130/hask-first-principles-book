@@ -1,4 +1,4 @@
-module Traversable where
+module Ch21Traversable where
 
 -- Chapter Exercises
 

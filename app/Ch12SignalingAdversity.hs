@@ -1,4 +1,4 @@
-module SignalingAdversity where
+module Ch12SignalingAdversity where
 
 
 -- Chapter Exercises

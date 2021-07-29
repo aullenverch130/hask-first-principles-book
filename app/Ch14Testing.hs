@@ -1,4 +1,4 @@
-module Testing where
+module Ch14Testing where
 
 -- Intermission: Short Exercise pg.832
 -- 1.

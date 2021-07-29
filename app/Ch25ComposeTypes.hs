@@ -1,4 +1,4 @@
-module ComposeTypes where
+module Ch25ComposeTypes where
 
 -- Exercises: Compose Instances pg.1518
 -- 1.
