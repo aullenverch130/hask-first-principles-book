@@ -1,4 +1,5 @@
 module Ch6Typeclasses where
+22nd leave lisp
 
 -- 25 Ch left
 -- if Ch a week it would take 6 months & 1 week to finish 
