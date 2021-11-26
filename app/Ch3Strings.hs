@@ -1,6 +1,6 @@
 module Ch3Strings where
 
-
+-- test2
 -- Exercises: Scope pg.109
 -- 1. yes
 -- 2. no
